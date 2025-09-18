@@ -1,3 +1,4 @@
 public class testNamedCredential {
-	public string urlEndPoint='{{ENDPOINT_URL}}';
+	public string urlEndPoint='test';
+    public string test='test';
 }
